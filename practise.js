@@ -22,3 +22,16 @@ var charD = 'T';
 var strD = "Tanushree";
 var boolD = true;
 var nullD = null;
+
+//Conditional statements
+
+var result = 50
+
+if(result > 40)
+{
+    console.log("Congratulations you passed the test!!!");
+}
+else
+{
+    console.log("Unfortunately you didn't pass");
+}
