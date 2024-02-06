@@ -68,3 +68,11 @@ for(var i = 0; i < 10; i++)
         continue;
     }
 }
+
+//while loop
+var i = 0;
+while(i < 10)
+{
+    console.log(i, "Find a job ASAP!!!!");
+    i++;
+}
