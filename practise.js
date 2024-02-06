@@ -1,3 +1,5 @@
+//Meta Front-End Developer
+
 console.log("Hakuna Matata");
 
 //Variables in JavaScript
@@ -27,6 +29,7 @@ var nullD = null;
 
 var result = 50
 
+//if-else statement
 if(result > 40)
 {
     console.log("Congratulations you passed the test!!!");
@@ -34,4 +37,20 @@ if(result > 40)
 else
 {
     console.log("Unfortunately you didn't pass");
+}
+
+//if-else-if statements
+var place = "first";
+
+if(place == "first")
+{
+    console.log("Gold");
+}
+else if("second")
+{
+    console.log("Silver");
+}
+else
+{
+    console.log("Bronze");
 }
