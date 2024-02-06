@@ -58,3 +58,13 @@ else
 {
     console.log("Oops.. no Medal");
 }
+
+//for loop
+for(var i = 0; i < 10; i++)
+{
+    console.log(i, "Go and get a job");
+    if(i === 5)
+    {
+        continue;
+    }
+}
