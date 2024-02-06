@@ -42,15 +42,19 @@ else
 //if-else-if statements
 var place = "first";
 
-if(place == "first")
+if(place === "first")
 {
     console.log("Gold");
 }
-else if("second")
+else if(place === "second")
 {
     console.log("Silver");
 }
-else
+else if(place === "third")
 {
     console.log("Bronze");
+}
+else
+{
+    console.log("Oops.. no Medal");
 }
