@@ -76,3 +76,17 @@ while(i < 10)
     console.log(i, "Find a job ASAP!!!!");
     i++;
 }
+
+//Math object
+//i) Math.ceil
+
+var rounded = Math.ceil(2.49);
+console.log(rounded);
+
+//strings
+var myName = "tanushree";
+for(var i = 0; i < myName.length; i++)
+{
+    console.log(myName[i]);
+}
+console.log(myName.concat(" Hakuna Matata"));
