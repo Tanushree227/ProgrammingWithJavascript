@@ -90,3 +90,19 @@ for(var i = 0; i < myName.length; i++)
     console.log(myName[i]);
 }
 console.log(myName.concat(" Hakuna Matata"));
+/*
+JS string methods:
+charAt() 
+
+concat() 
+
+indexOf() 
+
+lastIndexOf() 
+
+split() 
+
+toUpperCase() 
+
+toLowerCase() 
+ */
