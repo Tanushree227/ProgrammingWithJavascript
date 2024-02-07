@@ -106,3 +106,13 @@ toUpperCase()
 
 toLowerCase() 
  */
+
+//Object Methods
+
+var car = {};
+
+car.color = "Matte Red";
+
+car.turnKey = function() { 
+  console.log('engine running'); 
+}
