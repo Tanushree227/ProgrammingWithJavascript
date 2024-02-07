@@ -116,3 +116,7 @@ car.color = "Matte Red";
 car.turnKey = function() { 
   console.log('engine running'); 
 }
+
+//typeof operators
+
+console.log(typeof(myName), typeof(car));
