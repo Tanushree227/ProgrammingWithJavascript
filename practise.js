@@ -120,3 +120,10 @@ car.turnKey = function() {
 //typeof operators
 
 console.log(typeof(myName), typeof(car));
+
+//error handling
+try {
+    console.log("hakuna matata", myName);
+} catch (error) {
+    console.log(error);
+}
